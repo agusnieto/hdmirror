@@ -1,1 +1,3 @@
-# hdmirror
+```
+hdmirror - simple presentation utility
+```
